@@ -1,0 +1,60 @@
+= Music
+:description: Music theory, composition, and production
+:navtitle: Music
+
+[.lead]
+Architecture in sound. The mathematics of emotion.
+
+== Areas of Study
+
+[cols="1,2"]
+|===
+|Area |Topics
+
+|**xref:theory/index.adoc[Theory]**
+|Notation, scales, harmony, rhythm, counterpoint
+
+|**xref:composition/index.adoc[Composition]**
+|Form, orchestration, arranging
+
+|**xref:analysis/index.adoc[Analysis]**
+|Classical, jazz, film scores
+
+|**xref:production/index.adoc[Production]**
+|DAW, mixing, mastering
+
+|**xref:projects/index.adoc[Projects]**
+|Original compositions, arrangements
+|===
+
+== Music and Mathematics
+
+Music is deeply mathematical:
+
+* **Rhythm** — ratios and subdivisions
+* **Harmony** — frequency relationships (2:1 octave, 3:2 fifth)
+* **Form** — symmetry, patterns, recursion
+* **Counterpoint** — rule-based composition
+
+== Music and Language
+
+Music and language share:
+
+* **Syntax** — rules of combination
+* **Semantics** — meaning and emotion
+* **Prosody** — rhythm and intonation
+* **Grammar** — structure and hierarchy
+
+== Approach
+
+[arabic]
+. **Listen actively** — analyze what you hear
+. **Study theory** — understand the grammar
+. **Analyze scores** — learn from masters
+. **Compose** — apply knowledge
+. **Produce** — bring ideas to life
+
+== Related
+
+* xref:mathematics::index.adoc[Mathematics] — The math behind music
+* xref:literature::poetry/index.adoc[Poetry] — Rhythm and meter
