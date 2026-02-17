@@ -11,19 +11,19 @@ Architecture in sound. The mathematics of emotion.
 |===
 |Area |Topics
 
-|**xref:theory/index.adoc[Theory]**
+|**Theory**
 |Notation, scales, harmony, rhythm, counterpoint
 
-|**xref:composition/index.adoc[Composition]**
+|**Composition**
 |Form, orchestration, arranging
 
-|**xref:analysis/index.adoc[Analysis]**
+|**Analysis**
 |Classical, jazz, film scores
 
-|**xref:production/index.adoc[Production]**
+|**Production**
 |DAW, mixing, mastering
 
-|**xref:projects/index.adoc[Projects]**
+|**Projects**
 |Original compositions, arrangements
 |===
 
@@ -57,4 +57,4 @@ Music and language share:
 == Related
 
 * xref:mathematics::index.adoc[Mathematics] — The math behind music
-* xref:literature::poetry/index.adoc[Poetry] — Rhythm and meter
+* xref:literature::index.adoc[Literature] — Rhythm and meter
