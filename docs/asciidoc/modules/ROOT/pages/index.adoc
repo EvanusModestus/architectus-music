@@ -56,7 +56,14 @@ Music and language share:
 
 == Instruments
 
-* xref:violin/index.adoc[Violin] — Acoustics, technique, repertoire
+* xref:violin/index.adoc[Violin] — Acoustics, technique, positions
+
+== Repertoire
+
+Active study of works in the performing repertoire:
+
+* xref:repertoire/bach-double.adoc[Bach Double Violin Concerto, BWV 1043] — Baroque counterpoint, dialogue
+* xref:repertoire/humoresque.adoc[Dvořák Humoresque No. 7] — Romantic phrasing, rubato
 
 == Related
 

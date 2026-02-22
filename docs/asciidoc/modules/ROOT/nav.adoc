@@ -3,3 +3,8 @@
 .Violin
 * xref:violin/index.adoc[Overview]
 * xref:violin/acoustics.adoc[Acoustics]
+
+.Repertoire
+* xref:repertoire/index.adoc[Overview]
+* xref:repertoire/bach-double.adoc[Bach Double Concerto]
+* xref:repertoire/humoresque.adoc[Humoresque]

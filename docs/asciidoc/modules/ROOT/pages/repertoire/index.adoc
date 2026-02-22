@@ -1,0 +1,36 @@
+= Repertoire
+:description: Analysis and study of violin repertoire
+:navtitle: Repertoire
+
+[.lead]
+Active study of works in the performing repertoire.
+
+== Approach
+
+Repertoire study focuses on:
+
+* **Form** — Understanding large-scale structure
+* **Harmony** — Chord progressions and key relationships
+* **Technique** — Specific challenges and solutions
+* **Interpretation** — Stylistic considerations and musical decisions
+* **Practice** — Targeted strategies for mastery
+
+== Current Study
+
+[cols="2,1,2"]
+|===
+|Work |Composer |Focus
+
+|xref:repertoire/bach-double.adoc[Concerto for Two Violins in D minor, BWV 1043]
+|J.S. Bach
+|Baroque counterpoint, dialogue between soloists
+
+|xref:repertoire/humoresque.adoc[Humoresque No. 7 in G-flat major, Op. 101]
+|Antonín Dvořák
+|Romantic phrasing, rubato, character contrast
+|===
+
+== Related
+
+* xref:violin/index.adoc[Violin] — Technique fundamentals
+* xref:violin/acoustics.adoc[Acoustics] — Sound production

@@ -1,0 +1,248 @@
+= Concerto for Two Violins in D minor, BWV 1043
+:description: Analysis of Bach's Double Violin Concerto
+:navtitle: Bach Double
+:stem: latexmath
+
+[.lead]
+A masterwork of Baroque counterpoint where two equal voices engage in musical dialogue.
+
+== Overview
+
+[cols="1,2"]
+|===
+|Composer |Johann Sebastian Bach (1685-1750)
+|Catalog |BWV 1043
+|Key |D minor
+|Period |Baroque (composed c. 1730-1731, Köthen/Leipzig)
+|Movements |3 (Vivace, Largo ma non tanto, Allegro)
+|Duration |~15-17 minutes
+|===
+
+== Historical Context
+
+Composed during Bach's tenure as Kapellmeister in Köthen or early Leipzig years. The concerto follows the Italian concerto grosso tradition (Vivaldi, Corelli) but transforms it through Germanic counterpoint.
+
+Unlike Vivaldi's virtuosic display pieces, Bach's double concerto treats both soloists as equal partners in a contrapuntal conversation. Neither part is subordinate—both are essential to the musical argument.
+
+== Movement Analysis
+
+=== I. Vivace (D minor)
+
+**Form:** Ritornello
+
+The ritornello principle organizes the movement: orchestral passages (ritornellos) alternate with solo episodes.
+
+==== Opening Ritornello
+
+The orchestra states the main theme in D minor. Note the descending figure:
+
+* Measure 1-2: Descending D minor arpeggio (D-A-F-D)
+* Measure 3-4: Sequential development
+* Strong bass line drives harmonic motion
+
+==== Solo Entries
+
+The two violins enter in imitation—Violin I states a subject, Violin II answers. This call-and-response pervades the movement:
+
+[cols="1,2,2"]
+|===
+|Technique |Description |Practice Focus
+
+|Imitation
+|Second voice enters with same material, offset in time
+|Listen for partner's phrase to match articulation and shape
+
+|Stretto
+|Overlapping entries where answer begins before subject ends
+|Maintain independence while blending
+
+|Voice exchange
+|Soloists swap melodic material
+|Both parts must be prepared equally
+|===
+
+==== Key Areas
+
+[cols="1,1,2"]
+|===
+|Section |Key |Function
+
+|Opening |D minor |Tonic establishment
+|First episode |A minor |Dominant minor (relative major's parallel)
+|Development |F major / G minor |Relative major, subdominant minor
+|Return |D minor |Tonic resolution
+|===
+
+=== II. Largo ma non tanto (F major)
+
+**Form:** Binary with ritornello elements
+
+The slow movement is the emotional heart of the concerto. F major (relative major of D minor) provides contrast.
+
+==== Character
+
+* **Tempo:** Largo ma non tanto — slow but not too much (avoid dragging)
+* **Affect:** Sublime, tender, introspective
+* **Texture:** Two solo voices in canon and parallel thirds/sixths
+
+==== The Opening
+
+Violin I sings a long-breathed melody. Violin II enters in canon at the fifth below, one measure later. This is not mere imitation—it's a duet where both voices are melodically complete.
+
+==== Technical Considerations
+
+[cols="1,3"]
+|===
+|Element |Approach
+
+|**Bow distribution**
+|Plan bow usage to sustain long phrases without audible bow changes
+
+|**Vibrato**
+|Baroque-informed: narrower, often delayed, used for emphasis not default
+
+|**Intonation**
+|Parallel thirds/sixths expose tuning—practice with drone
+
+|**Breathing**
+|Phrase together; lift slightly at cadences to match
+|===
+
+==== Ornamentation
+
+Period-appropriate ornaments enhance expression:
+
+* **Trills:** Begin on upper note, resolve to principal note
+* **Appoggiatura:** Lean into dissonance before resolution
+* **Messa di voce:** Dynamic swell within sustained notes
+
+=== III. Allegro (D minor)
+
+**Form:** Ritornello (fugal elements)
+
+The finale returns to D minor with renewed energy. The movement combines ritornello form with fugal techniques.
+
+==== Subject
+
+The main subject features:
+
+* Driving eighth-note motion
+* Harmonic sequence
+* Strong metric profile
+
+==== Dialogue Intensified
+
+The two soloists engage in rapid exchange:
+
+* One-measure phrases passed between voices
+* Parallel thirds and sixths in virtuosic passages
+* Hemiola effects approaching cadences
+
+==== Technical Challenges
+
+[cols="1,3"]
+|===
+|Challenge |Strategy
+
+|**String crossings**
+|Minimize arm motion; pivot from elbow, not shoulder
+
+|**Clarity at speed**
+|Articulate with fingers (left hand) not bow pressure
+
+|**Coordination**
+|Practice with partner at slow tempo for rhythmic alignment
+
+|**Stamina**
+|Build endurance gradually; movement demands sustained energy
+|===
+
+== Counterpoint Techniques
+
+Bach employs sophisticated contrapuntal devices throughout:
+
+=== Imitation
+
+One voice states material; the other responds at a time interval.
+
+=== Canon
+
+Strict imitation where the follower exactly replicates the leader.
+
+=== Invertible Counterpoint
+
+The two voices can swap positions (upper becomes lower and vice versa) while remaining harmonically correct. Bach writes both parts to function in either octave.
+
+=== Sequences
+
+Melodic patterns repeated at different pitch levels, creating harmonic motion.
+
+== Performance Practice
+
+=== Baroque vs. Modern
+
+[cols="1,2,2"]
+|===
+|Element |Baroque Approach |Modern Tendency
+
+|Vibrato
+|Ornamental, selective
+|Continuous, wide
+
+|Bow
+|Off-string articulation common
+|More legato default
+
+|Dynamics
+|Terraced (echo effects)
+|Gradual crescendo/diminuendo
+
+|Tempo
+|Steady pulse, hierarchy of beats
+|More rubato
+|===
+
+=== Ensemble Considerations
+
+* **Balance:** Neither soloist dominates; listen constantly
+* **Tuning:** Agree on reference pitch (historical: A=415; modern: A=440/442)
+* **Bowing:** Coordinate where possible for visual and sonic unity
+* **Phrasing:** Shape phrases together; rehearse phrase endings
+
+== Practice Strategies
+
+=== Solo Preparation
+
+[arabic]
+. Learn both parts—understand the complete texture
+. Practice slowly with metronome for rhythmic precision
+. Record yourself and analyze for unintended accents or rushing
+. Study the orchestral tutti; know where you fit in the larger form
+
+=== Duo Rehearsal
+
+[arabic]
+. Begin with slow movement—establishes listening and blend
+. Work transitions between solo and tutti
+. Practice difficult passages together, not just individually
+. Record and review for balance issues
+
+=== With Orchestra
+
+* Follow the continuo bass line for harmonic orientation
+* Maintain independence during solo passages
+* Blend during tutti (concertino vs. ripieno)
+
+== Recordings for Study
+
+Approach recordings critically—each reflects interpretive choices:
+
+* **Historical performance practice:** Focus on articulation, ornamentation, tempo relationships
+* **Modern symphony approach:** Notice how string sections handle the material
+* **Chamber performances:** Listen for intimacy and dialogue
+
+== Related
+
+* xref:violin/index.adoc[Violin] — Technique fundamentals
+* xref:repertoire/index.adoc[Repertoire] — Other works under study
+* xref:mathematics::applied/signal-processing.adoc[Signal Processing] — Acoustics of ensemble blend

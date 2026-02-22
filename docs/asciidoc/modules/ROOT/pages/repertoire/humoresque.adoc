@@ -1,0 +1,259 @@
+= Humoresque No. 7 in G-flat major, Op. 101
+:description: Analysis of Dvořák's Humoresque
+:navtitle: Humoresque
+:stem: latexmath
+
+[.lead]
+A Romantic character piece balancing wit, nostalgia, and expressive depth.
+
+== Overview
+
+[cols="1,2"]
+|===
+|Composer |Antonín Dvořák (1841-1904)
+|Catalog |Op. 101, No. 7
+|Key |G-flat major
+|Period |Romantic (composed 1894, New York)
+|Form |Ternary (ABA')
+|Duration |~3-4 minutes
+|Original |Piano solo (widely arranged for violin)
+|===
+
+== Historical Context
+
+Dvořák composed the eight Humoresques during summer 1894 while visiting Bohemia from his position in New York. No. 7 became immediately popular—the quintessential salon piece that transcended its origins.
+
+The title "Humoresque" (from German _Humoreske_) doesn't mean "funny." It refers to a character piece with shifting moods—sometimes playful, sometimes wistful, always expressive.
+
+== Compositional Context
+
+Written during Dvořák's "American period" (1892-1895), but the Humoresques reflect Czech folk influence more than American themes. The lilting rhythm and melodic contours recall Bohemian village music.
+
+== Form and Structure
+
+=== Ternary Form (ABA')
+
+[cols="1,1,2,1"]
+|===
+|Section |Measures |Character |Key
+
+|A
+|1-24
+|Lyrical, nostalgic main theme
+|G-flat major
+
+|B
+|25-48
+|Contrasting, more emphatic
+|B-flat minor → G-flat major
+
+|A'
+|49-72
+|Return of main theme, slightly varied
+|G-flat major
+
+|Coda
+|73-end
+|Quiet close
+|G-flat major
+|===
+
+=== A Section: Main Theme
+
+The famous melody enters immediately—no introduction.
+
+==== Rhythmic Character
+
+The signature rhythm combines:
+
+* **Dotted eighth + sixteenth:** Creates forward momentum
+* **Syncopation:** Notes landing off the beat
+* **Rubato potential:** Flexibility within the phrase
+
+==== Melodic Shape
+
+The theme ascends then gently falls, like a sigh or question. The contour suggests speech inflection—conversational, intimate.
+
+==== Phrase Structure
+
+Four-bar phrases, symmetrically balanced:
+
+* Antecedent (question): rises, ends on dominant area
+* Consequent (answer): resolves to tonic
+
+=== B Section: Contrast
+
+The middle section shifts character:
+
+* **Mode:** Moves toward B-flat minor (relative minor of D-flat, closely related to G-flat)
+* **Dynamics:** Fuller, more emphatic
+* **Articulation:** Broader strokes
+* **Emotion:** Intensity beneath the surface—longing, perhaps frustration
+
+This isn't a dramatic outburst but a deepening of feeling. The contrast makes the return of A more satisfying.
+
+=== A' Section: Return
+
+The main theme returns with subtle variations:
+
+* Possible ornamentation
+* Slight dynamic shaping differences
+* Awareness of what preceded (the journey to and from B)
+
+=== Coda
+
+A quiet close. The energy dissipates; the piece ends softly, introspectively.
+
+== Technical Considerations
+
+=== The Violin Arrangement
+
+Most violin arrangements transpose from G-flat major to G major for practicality (fewer flats, more resonant open strings). Know which version you're playing.
+
+=== Bow Control
+
+[cols="1,3"]
+|===
+|Challenge |Approach
+
+|**Sostenuto singing tone**
+|Sustained contact point, even bow speed
+
+|**Phrase shaping**
+|Bow distribution planned for phrase arc—save bow for climax
+
+|**Dynamic range**
+|Intimate _piano_ that projects; full _forte_ without forcing
+
+|**Bow changes**
+|Inaudible connections; practice slow bow changes with consistent tone
+|===
+
+=== Left Hand
+
+[cols="1,3"]
+|===
+|Element |Consideration
+
+|**Vibrato**
+|Romantic style allows continuous vibrato, but vary width and speed for expression
+
+|**Shifting**
+|Smooth position changes; shift during sustained notes when possible
+
+|**Double stops**
+|Some arrangements include thirds/sixths; tune carefully
+|===
+
+=== Rubato
+
+Rubato is essential to this style, but misunderstand it and the piece becomes shapeless.
+
+==== Principles
+
+* **Rhythmic flexibility within the phrase**, not abandonment of pulse
+* **Give and take:** If you stretch one note, compress another
+* **Bass line keeps time:** The accompaniment provides stability
+* **Structural points stay in place:** Downbeats of phrases, cadences
+* **Serve the music:** Rubato highlights emotion, not performer ego
+
+==== Common Mistakes
+
+[cols="1,2"]
+|===
+|Problem |Solution
+
+|Constant slowing
+|Rubato means _robbed_ time—you must pay it back
+
+|Predictable pattern
+|Vary where and how much you stretch
+
+|Losing the beat
+|Practice with metronome first; add rubato only when secure
+
+|Overdoing it
+|Less is more; save extreme flexibility for key moments
+|===
+
+== Interpretive Considerations
+
+=== Character
+
+The Humoresque contains multitudes within its brief span:
+
+* **Playfulness:** Light touch, dance-like lilt
+* **Nostalgia:** Bittersweet longing for something past
+* **Tenderness:** Intimate, confiding tone
+* **Depth beneath simplicity:** Don't mistake accessibility for shallowness
+
+=== Phrasing
+
+Shape phrases as complete thoughts:
+
+[arabic]
+. Identify phrase beginnings and endings
+. Find the peak (climax) of each phrase
+. Shape toward and away from the peak
+. Connect phrases into larger periods
+
+=== Dynamics
+
+Dvořák marks dynamics carefully. Observe them, then internalize:
+
+* _p_ doesn't mean inaudible—it means intimate
+* _f_ doesn't mean harsh—it means full-voiced
+* Crescendo and diminuendo are gradual processes, not sudden changes
+
+== Practice Strategies
+
+=== Learning Phase
+
+[arabic]
+. **Rhythm first:** Clap or tap the rhythm accurately before adding pitch
+. **Slow practice:** Half tempo with full tone production
+. **Phrase mapping:** Mark phrase structure in the score
+. **Harmonic awareness:** Know the chord changes; bass notes guide expression
+
+=== Refinement Phase
+
+[arabic]
+. **Record and listen:** Identify unintentional accents, rushing
+. **Experiment with rubato:** Try different approaches; find what's musical
+. **Dynamic calibration:** Check that your _p_ and _f_ are distinct but not extreme
+. **Memory work:** Memorize structure first (form), then details
+
+=== Performance Preparation
+
+[arabic]
+. **Play through complete:** Don't always stop to fix
+. **Perform for others:** Living room concerts build stage comfort
+. **Physical comfort:** Know the piece so well that technical demands recede
+. **Emotional connection:** What does this piece mean to you?
+
+== Stylistic Context
+
+=== Romantic Character Pieces
+
+The Humoresque belongs to a genre of short, expressive piano works:
+
+* **Chopin:** Nocturnes, Mazurkas
+* **Schumann:** Kinderszenen, Fantasiestücke
+* **Brahms:** Intermezzi, Capriccios
+* **Dvořák:** Humoresques, Slavonic Dances
+
+These pieces prioritize expression over virtuosic display.
+
+=== Czech National Style
+
+Dvořák's music reflects Bohemian folk traditions:
+
+* **Rhythmic patterns:** Related to Czech dances (polka, furiant)
+* **Melodic contours:** Modal inflections, folk-like simplicity
+* **Emotional directness:** Heart on sleeve, no ironic distance
+
+== Related
+
+* xref:repertoire/bach-double.adoc[Bach Double] — Baroque counterpoint contrast
+* xref:repertoire/index.adoc[Repertoire] — Other works under study
+* xref:violin/index.adoc[Violin] — Technique fundamentals
