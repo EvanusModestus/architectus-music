@@ -34,11 +34,21 @@ The ritornello principle organizes the movement: orchestral passages (ritornello
 
 ==== Opening Ritornello
 
-The orchestra states the main theme in D minor. Note the descending figure:
+The orchestra states the main theme in D minor—a descending arpeggio that defines the work's character:
 
-* Measure 1-2: Descending D minor arpeggio (D-A-F-D)
-* Measure 3-4: Sequential development
-* Strong bass line drives harmonic motion
+[abc,svg-type=inline]
+----
+X:1
+T:I. Vivace - Opening Theme
+M:C
+L:1/16
+Q:1/4=80
+K:Dm
+V:1 clef=treble name="Violin I"
+d4 A4 F4 D4 | E2F2 G2A2 B2c2 d2e2 | f4 e4 d4 c4 | B2A2 G2F2 E2D2 C2B,2 |
+----
+
+The descending D minor arpeggio (D-A-F-D) establishes tonic firmly before the sequential development drives toward the dominant.
 
 ==== Solo Entries
 
@@ -87,7 +97,23 @@ The slow movement is the emotional heart of the concerto. F major (relative majo
 
 ==== The Opening
 
-Violin I sings a long-breathed melody. Violin II enters in canon at the fifth below, one measure later. This is not mere imitation—it's a duet where both voices are melodically complete.
+Violin I sings a long-breathed melody. Violin II enters in canon at the fifth below, one measure later:
+
+[abc,svg-type=inline]
+----
+X:2
+T:II. Largo ma non tanto - Opening Canon
+M:12/8
+L:1/8
+Q:3/8=40
+K:F
+V:1 clef=treble name="Violin I"
+A3 G2A B2c d2B | c6- c2B A2G |
+V:2 clef=treble name="Violin II"
+z6 z6 | D3 C2D E2F G2E |
+----
+
+This is not mere imitation—it's a duet where both voices are melodically complete.
 
 ==== Technical Considerations
 
@@ -124,11 +150,25 @@ The finale returns to D minor with renewed energy. The movement combines ritorne
 
 ==== Subject
 
-The main subject features:
+The main subject drives forward with relentless energy:
 
-* Driving eighth-note motion
-* Harmonic sequence
-* Strong metric profile
+[abc,svg-type=inline]
+----
+X:3
+T:III. Allegro - Main Subject
+M:3/4
+L:1/8
+Q:1/4=120
+K:Dm
+V:1 clef=treble name="Violin I"
+A2 | d2 ef ed | cB AG FE | D2 EF GE | FD A,2 z2 |
+----
+
+Key characteristics:
+
+* Driving eighth-note motion creates momentum
+* Harmonic sequence propels through key areas
+* Strong metric profile anchors the pulse
 
 ==== Dialogue Intensified
 

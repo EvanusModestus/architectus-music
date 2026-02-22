@@ -60,7 +60,21 @@ Written during Dvořák's "American period" (1892-1895), but the Humoresques ref
 
 === A Section: Main Theme
 
-The famous melody enters immediately—no introduction.
+The famous melody enters immediately—no introduction:
+
+[abc,svg-type=inline]
+----
+X:1
+T:Humoresque - Main Theme (A Section)
+C:Antonín Dvořák
+M:2/4
+L:1/16
+Q:1/4=72
+K:G
+V:1 clef=treble
+B3c d2B2 | G6 A2 | B3c d2e2 | d4- d2z2 |
+B3c d2B2 | G6 A2 | B3c d2B2 | G4- G2z2 |
+----
 
 ==== Rhythmic Character
 
@@ -83,9 +97,23 @@ Four-bar phrases, symmetrically balanced:
 
 === B Section: Contrast
 
-The middle section shifts character:
+The middle section shifts character with a more emphatic theme:
 
-* **Mode:** Moves toward B-flat minor (relative minor of D-flat, closely related to G-flat)
+[abc,svg-type=inline]
+----
+X:2
+T:Humoresque - Contrasting Theme (B Section)
+C:Antonín Dvořák
+M:2/4
+L:1/16
+Q:1/4=72
+K:Gm
+V:1 clef=treble
+d4 d2d2 | d3e f2d2 | c4 c2c2 | c3d e2c2 |
+B4 B2B2 | B3c d2B2 | A4 G2F2 | G4- G2z2 |
+----
+
+* **Mode:** Shifts to minor (B-flat minor in original, G minor in G major transposition)
 * **Dynamics:** Fuller, more emphatic
 * **Articulation:** Broader strokes
 * **Emotion:** Intensity beneath the surface—longing, perhaps frustration
