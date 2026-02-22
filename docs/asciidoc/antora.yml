@@ -13,3 +13,9 @@ asciidoc:
     icons: font
     source-highlighter: highlight.js
     experimental: ''
+    stem: latexmath
+    # Violin attributes
+    violin-a4-hz: '440'
+    violin-g3-hz: '196'
+    violin-d4-hz: '293.66'
+    violin-e5-hz: '659.25'

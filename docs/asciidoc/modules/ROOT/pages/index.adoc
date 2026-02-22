@@ -54,6 +54,10 @@ Music and language share:
 . **Compose** — apply knowledge
 . **Produce** — bring ideas to life
 
+== Instruments
+
+* xref:violin/index.adoc[Violin] — Acoustics, technique, repertoire
+
 == Related
 
 * xref:mathematics::index.adoc[Mathematics] — The math behind music
